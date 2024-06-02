@@ -1,0 +1,7 @@
+.todoCard{
+  float: left;
+  background-color: rgb(156, 236, 187);
+  margin: 2px;
+  padding: 20px;
+  border-radius: 2%;
+}
